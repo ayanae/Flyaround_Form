@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/flyaround.iml" filepath="$PROJECT_DIR$/.idea/flyaround.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../todoList/.idea/todoList.iml" filepath="$PROJECT_DIR$/../todoList/.idea/todoList.iml" />
     </modules>
   </component>
 </project>
